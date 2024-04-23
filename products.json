@@ -1,0 +1,1 @@
+[{"id":1,"title":"Silla","description":"Silla de metal","price":12345,"thumbnail":"../img1.jpg","code":"prod1","stock":6},{"id":2,"title":"Mesa","description":"Mesa de madera","price":67890,"thumbnail":"../img2.jpg","code":"prod2","stock":3},{"id":3,"title":"Cama","description":"Sommier","price":74125,"thumbnail":"../img4.jpg","code":"prod4","stock":4}]
